@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+
+h1.custom-font {
+	font-family: 'Monoton', cursive;
+}
